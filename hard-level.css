@@ -1,0 +1,70 @@
+*{
+    font-weight:Arial,Helvetica, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+#enclose{
+    background-color: aqua;
+    height: 100%;
+    width: 80%;
+    margin-left: 10%;
+}
+#timer{
+    background-color: blueviolet;
+    text-align: center;
+    color: black;
+    padding: 15px;
+}
+#first_container{
+    background-color: aliceblue;
+    font-size: 20px;
+    padding: 2%;
+
+}
+#test_para{
+    background-color: brown;
+    padding: 2%;
+}
+#user_para {
+    margin-top: 12px;
+    width: 100%;
+    height: 300px;
+    font-size: 20px;
+    padding: 10px;
+}
+#end_box {
+    background: #3f3f3f;
+    height: 85%;
+    width: 100%;
+    padding-top: 15%;
+    display: none;
+    overflow: hidden;
+    position: absolute;
+}
+.box {
+    background: #ffffff;
+    width: 30%;
+    height: 30%;
+    margin-left: 35%;
+    text-align: center;
+    line-height: 2;
+    border: #bd0000 solid 3px;
+    border-radius: 10px;
+}
+.box h1 {
+    font-size: 35px;
+    color: #073d00;
+}
+.p {
+    font-size: 20px;
+}
+.button {
+    background: #0488e0;
+    padding: 15px;
+    width: 30%;
+    color: #ffffff;
+    border: none;
+}
+.box button:hover {
+    background: #0579c7;
+}
